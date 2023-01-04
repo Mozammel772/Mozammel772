@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Node, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://jarasoftwer.net/](https://jarasoftwer.net/)
+- 👨‍💻 All of my projects are available at [https://jarasoftwer.net/](https://jarasoftit.com/)
 
-- 📝 I regularly write articles on [https://jarasoftwer.net/](https://jarasoftwer.net/)
+- 📝 I regularly write articles on [https://jarasoftwer.net/](https://jarasoftit.com/)
 
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **mdmozammelhosen15701@gmail.com**
 
-- 📄 Know about my experiences [https://jarasoftwer.net/](https://jarasoftwer.net/)
+- 📄 Know about my experiences [https://jarasoftwer.net/](https://jarasoftit.com/)
 
 - ⚡ Fun fact **I Think**
 
