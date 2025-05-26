@@ -1,7 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Masud Reza</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mozammel Hosen</h1>
 <p align="center">A passionate frontend developer from Bangladesh</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezainiet&label=Profile%20views&color=0e75b6&style=flat" alt="rezainiet" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mozammelhosen&label=Profile%20views&color=0e75b6&style=flat" alt="mozammelhosen" />
+</p>
 
 - 🔭 I’m currently working on [Parts Producer](#)
 - 🌱 I’m currently learning **NodeJS, MongoDB, Python**
@@ -17,12 +19,14 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
@@ -40,41 +44,31 @@
 ---
 
 ### 📊 Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezainiet&layout=compact&theme=default" />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozammelhosen&layout=compact&theme=default)
 
 ---
 
-### 📈 Masud Reza's GitHub Stats:
+### 📈 Mozammel Hosen's GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezainiet&show_icons=true&locale=en&theme=default" alt="rezainiet" />
-</p>
+![Mozammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozammelhosen&show_icons=true&locale=en&theme=default)
 
-- **Total Stars Earned:** 4  
-- **Total Commits (2025):** 118  
-- **Total PRs:** 8  
-- **Total Issues:** 1  
-- **Contributed to (last year):** 2  
+- **Dynamic Commits (this year):** Enabled
+- **Total PRs:** Auto Updated
+- **Total Issues:** Auto Updated
+- **Contributions:** Live sync from GitHub
 
 ---
 
-### 🔥 Contribution Stats:
+### 🔥 Streak Stats:
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezainiet&theme=default" alt="streak" />
-</p>
-
-- 🔢 **Total Contributions:** 1,129  
-- 📅 **Current Streak:** 0 (May 26)  
-- 🥇 **Longest Streak:** 12 (May 19, 2022 – May 30, 2022)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mozammelhosen&theme=default)
 
 ---
 
 ### 📂 Popular Repositories
 
-<!-- Add some repo cards here if you want -->
+<!-- Add project cards here using GitHub Repo Cards if needed -->
 
 ---
 
