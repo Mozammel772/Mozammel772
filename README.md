@@ -1,39 +1,35 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mozammel Hosen</h1>
-<p align="center">A passionate frontend developer from Bangladesh</p>
+<h1 align="center">Hi 👋, I'm Mozammel Hosen</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mozammelhosen&label=Profile%20views&color=0e75b6&style=flat" alt="mozammelhosen" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mozammel772&label=Profile%20views&color=0e75b6&style=flat" alt="Mozammel772" />
 </p>
 
-- 🔭 I’m currently working on [Parts Producer](#)
-- 🌱 I’m currently learning **NodeJS, MongoDB, Python**
+- 🔭 I’m currently working on **Parts Producer**
+- 🌱 I’m currently learning **Node.js, MongoDB, Python**
 - 👯 I’m looking for help with **Doctors Portal**
-- 📁 All of my projects are available at [https://rezas-portfolio.web.app](https://rezas-portfolio.web.app/)
+- 💻 My portfolio: [rezas-portfolio.web.app](https://rezas-portfolio.web.app/)
 - 💬 Ask me about **React, JavaScript**
-- 📫 How to reach me: **masudreza.dev@gmail.com**
-- 📄 Know about my experiences [Google Drive Resume](https://drive.google.com/file/d/1Fn0JjkQoAVZcY1rM3KSoCeAK6JYOA/view?usp=drivesdk)
+- 📫 Email: **masudreza.dev@gmail.com**
+- 📄 Resume: [Google Drive](https://drive.google.com/drive/folders/1k83_wfssZvqdtPGBlQyoT2KzpglJ9odj)
 - ⚡ Fun fact: *I think I'm not learning new Technologies...*
 
 ---
 
-### Connect with me:
+### 🧑‍💻 Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
 
 ---
 
-### 🛠 Languages and Tools:
+### 🛠️ Languages and Tools:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
@@ -43,32 +39,20 @@
 
 ---
 
-### 📊 Most Used Languages:
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozammelhosen&layout=compact&theme=default)
+#### 🔹 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozammel772&layout=compact&theme=default)
 
----
+#### 🔹 GitHub Summary Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozammel772&show_icons=true&locale=en)
 
-### 📈 Mozammel Hosen's GitHub Stats:
-
-![Mozammel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozammelhosen&show_icons=true&locale=en&theme=default)
-
-- **Dynamic Commits (this year):** Enabled
-- **Total PRs:** Auto Updated
-- **Total Issues:** Auto Updated
-- **Contributions:** Live sync from GitHub
+#### 🔹 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mozammel772&theme=default)
 
 ---
 
-### 🔥 Streak Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mozammelhosen&theme=default)
-
----
-
-### 📂 Popular Repositories
-
-<!-- Add project cards here using GitHub Repo Cards if needed -->
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mozammel772&theme=default)
 
 ---
-
