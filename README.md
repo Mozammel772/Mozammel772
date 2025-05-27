@@ -19,8 +19,8 @@
 
 ### 🧑‍💻 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/) <!-- Replace with actual profile -->
-[![Facebook](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://[www.linkedin.com/in/](https://web.facebook.com/MozammelHosen772)/) <!-- Replace with actual profile -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/) <!-- Replace with actual LinkedIn profile -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/MozammelHosen772)
 
 ---
 
@@ -56,5 +56,3 @@
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mozammel772&theme=github-compact)
-
----
