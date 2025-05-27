@@ -10,8 +10,8 @@
 - 👯 I’m looking for help with **Doctors Portal**
 - 💻 My portfolio: [rezas-portfolio.web.app](https://rezas-portfolio.web.app/)
 - 💬 Ask me about **React, JavaScript**
-- 📫 Email: **masudreza.dev@gmail.com**
-- 📄 Resume: [Google Drive](https://drive.google.com/drive/folders/1k83_wfssZvqdtPGBlQyoT2KzpglJ9odj)
+- 📫 Email: **mozammelhosen.dev@gmail.com**
+- 📄 Resume: [Google Drive](https://drive.google.com/file/d/1Fn0JjkQoAVZcY1rM3KSoCeAK6JYOA/view?usp=drivesdk)
 - ⚡ Fun fact: *I think I'm not learning new Technologies...*
 
 ---
