@@ -11,6 +11,7 @@
 - 💻 My portfolio: [mozammel-portfolio.web.app](https://protfolio-websites.netlify.app/)
 - 💬 Ask me about **React, Next.js, JavaScript, Node.js**
 - 📫 Email: **mozammelhosen.dev@gmail.com**
+- 📱 WhatsApp: [+8801775775772](https://wa.me/8801775775772)
 - 📄 Resume: [View on Google Drive](https://drive.google.com/drive/folders/1k83_wfssZvqdtPGBlQyoT2KzpglJ9odj)
 - ⚡ Fun fact: *I think I'm not learning new technologies...*
 
