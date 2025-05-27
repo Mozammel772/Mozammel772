@@ -6,12 +6,12 @@
 </p>
 
 - 🔭 I’m currently working on **Parts Producer**
-- 🌱 I’m currently learning **Node.js, MongoDB, Python**
+- 🌱 I’m currently learning **React Js, TypeScript ,Node.js, MongoDB, Postgresql**
 - 👯 I’m looking for help with **Doctors Portal**
 - 💻 My portfolio: [rezas-portfolio.web.app](https://rezas-portfolio.web.app/)
 - 💬 Ask me about **React, JavaScript**
 - 📫 Email: **mozammelhosen.dev@gmail.com**
-- 📄 Resume: [Google Drive](https://drive.google.com/file/d/1Fn0JjkQoAVZcY1rM3KSoCeAK6JYOA/view?usp=drivesdk)
+- 📄 Resume: [Google Drive](https://drive.google.com/drive/folders/1k83_wfssZvqdtPGBlQyoT2KzpglJ9odj)
 - ⚡ Fun fact: *I think I'm not learning new Technologies...*
 
 ---
@@ -53,6 +53,8 @@
 ---
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mozammel772&theme=default)
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mozammel772&theme=github-compact)
+
 
 ---
