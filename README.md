@@ -20,6 +20,7 @@
 ### 🧑‍💻 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/) <!-- Replace with actual profile -->
+[![Facebook](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://[www.linkedin.com/in/](https://web.facebook.com/MozammelHosen772)/) <!-- Replace with actual profile -->
 
 ---
 
