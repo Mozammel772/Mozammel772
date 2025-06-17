@@ -1,4 +1,4 @@
-git push ta dynamic kore deo jate ami git push korle count korte pare <h1 align="center">Hi 👋, I'm Mozammel Hosen</h1>
+ <h1 align="center">Hi 👋, I'm Mozammel Hosen</h1>
 <h3 align="center">A passionate Full Stack React Developer from Bangladesh</h3>
 
 <p align="center">
