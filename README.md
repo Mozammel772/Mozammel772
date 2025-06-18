@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mozammel Hosen</h1>
+ <h1 align="center">Hi 👋, I'm Mozammel Hosen</h1>
 <h3 align="center">A passionate Full Stack React Developer from Bangladesh</h3>
 
 <p align="center">
@@ -6,10 +6,10 @@
 </p>
 
 - 🔭 I’m currently working on **Parts Producer**
-- 🌱 I’m currently learning **React.js, TypeScript, Node.js, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **React.js,Next.js, TypeScript, Node.js, MongoDB, PostgreSQL**
 - 👯 I’m looking for help with **Doctors Portal**
 - 💻 My portfolio: [mozammel-portfolio.web.app](https://protfolio-websites.netlify.app/)
-- 💬 Ask me about **React, Next.js, JavaScript, Node.js**
+- 💬 Ask me about **React, Next.js,TypeScript, JavaScript, Node.js**
 - 📫 Email: **mozammelhosen.dev@gmail.com**
 - 📱 WhatsApp: [+8801775775772](https://wa.me/8801775775772)
 - 📄 Resume: [View on Google Drive](https://drive.google.com/drive/folders/1k83_wfssZvqdtPGBlQyoT2KzpglJ9odj)
@@ -27,7 +27,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
@@ -45,31 +45,22 @@
 ---
 
 ### 📊 GitHub Stats
-
-#### 🔹 Total GitHub Stats (with private commits)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozammel772&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
-#### 🔹 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mozammel772&theme=default&hide_border=false)
 
 #### 🔹 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozammel772&layout=compact&langs_count=10&theme=default)
+
+
+
+#### 🔹 GitHub Summary Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozammel772&show_icons=true&locale=en)
+
+#### 🔹 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mozammel772&theme=default&hide_border=false)
+
 
 ---
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mozammel772&theme=github-compact&hide_border=true)
-
----
-
-> _Note: Make sure you've enabled **"Include private contributions on my profile"** from your GitHub [profile settings](https://github.com/settings/profile) to see total commits correctly._
-
----
-
-Let me know if you want to:
-- Add GitHub trophies 🏆
-- Add animated typing text
-- Highlight pinned repositories
-- Or make a portfolio badge/banner
-
-I'm happy to enhance it more!
