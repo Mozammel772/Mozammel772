@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Parts Producer**
 - 🌱 I’m currently learning **React.js,Next.js, TypeScript, Node.js, MongoDB, PostgreSQL**
 - 👯 I’m looking for help with **Doctors Portal**
-- 💻 My portfolio: [mozammel-portfolio.web.app](https://protfolio-websites.netlify.app/)
+- 💻 My portfolio: [mozammel-portfolio.web.app]([https://mozammel-hosen.vercel.app/])
 - 💬 Ask me about **React, Next.js,TypeScript, JavaScript, Node.js**
 - 📫 Email: **mozammelhosen.dev@gmail.com**
 - 📱 WhatsApp: [+8801775775772](https://wa.me/8801775775772)
